@@ -2,9 +2,6 @@ import rasterio
 import os
 import glob
 
-import numpy as np
-import matplotlib.pyplot as plt
-
 
 # Image patches path
 image_path = glob.glob("/Your_Path/*.tif") # Insert the directory path of image patches 
